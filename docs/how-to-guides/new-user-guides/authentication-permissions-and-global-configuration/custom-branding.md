@@ -194,3 +194,4 @@ Adding the `toService` parameters above results in a link to Grafana being creat
 
 ![Screenshot of Grafana Link](/img/example-service-link.png)
 
+https://iqratechnology.com/academy/
